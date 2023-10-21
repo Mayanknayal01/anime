@@ -1,0 +1,90 @@
+body {
+    background: url(./2.1.png) fixed center;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: red;
+}
+
+.one{
+    width: 250px;
+    font-size: 40px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    margin-top: 350px;
+    margin-bottom: 0px;
+    margin-left: 120px;
+    margin-right: auto;
+}
+
+.two{
+    width: 250px;
+    font-size: 40px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    margin-top: -160px;
+    margin-bottom: 0px;
+    margin-left: 550px;
+    margin-right: auto;
+}
+
+.three{
+    width: 250px;
+    font-size: 40px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    margin-top: -50px;
+    margin-bottom: 0px;
+    margin-left: 1050px;
+    margin-right: auto;
+}
+
+.four{
+    width: 250px;
+    font-size: 40px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    margin-top: 410px;
+    margin-bottom: 0px;
+    margin-left: 120px;
+    margin-right: auto;
+}
+
+.five{
+    width: 250px;
+    font-size: 40px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    margin-top: -170px;
+    margin-bottom: 0px;
+    margin-left: 700px;
+    margin-right: auto;
+}
+
+.six{
+    width: 180px;
+    font-size: 40px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    margin-left: 1150px;
+    margin-right: auto;
+}
+
+p:hover {
+    box-shadow: 0 0 10px cyan, 0 0 35px cyan, 0 0 65px cyan, 0 0 125px cyan, 0 0 220px cyan;
+    color: #000000;
+    border-color: cyan;
+    background-color: cyan;
+}
